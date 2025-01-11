@@ -64,3 +64,6 @@ To classify waste into six categories: plastic, glass, paper, metal, shoes, and 
 1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/AmeenKhan12345/Waste_Sorting_Classification.git
+
+2. ```bash
+   pip install -r requirements.txt
